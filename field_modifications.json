@@ -14,10 +14,10 @@
             "field_modification": {
                 "id": 1,
                 "change_id": 1,
-                "field_name": "first_name",
-                "previous_value": "John",
-                "new_value": "Jane",
-                "is_custom_field": false
+                "field_name": "custom_field",
+                "previous_value": "Old",
+                "new_value": "New",
+                "is_custom_field": true
             }
         }
     ]
