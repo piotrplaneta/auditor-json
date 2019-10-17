@@ -1,0 +1,24 @@
+{
+    "field_modifications": [
+        {
+            "field_modification": {
+                "id": 1,
+                "change_id": 1,
+                "field_name": "first_name",
+                "previous_value": "John",
+                "new_value": "Jane",
+                "is_custom_field": false
+            }
+        },
+        {
+            "field_modification": {
+                "id": 1,
+                "change_id": 1,
+                "field_name": "first_name",
+                "previous_value": "John",
+                "new_value": "Jane",
+                "is_custom_field": false
+            }
+        }
+    ]
+}
